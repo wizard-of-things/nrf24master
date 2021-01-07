@@ -1,0 +1,12 @@
+{
+  "name": "NRF24Master",
+  "description": "NRF24 Master",
+  "version": "1.0",
+
+  "power": "USB",
+  "wireless":"nrf2401",
+  "sensor": "lprf",
+  "mcu": "stm32",
+
+  "status": "ongoing"
+}

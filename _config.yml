@@ -1,0 +1,21 @@
+title: nrf24master
+description: NRF24 Master
+#url: ""
+
+# site urls
+# add the url for the domain,
+# on gh-pages follow the pattern: https://username.github.io 
+url: https://wizard-of-things.github.io/nrf24master
+# add subsection of the domain,
+# on gh-pages this is a / followed by the name of the repository
+baseurl: /
+
+markdown: kramdown
+permalink: /:title
+google_analytics: UA-
+youtube: https://www.youtube.com/user/
+github:
+  repository_url: https://github.com/wizard-of-things/nrf24master
+  raw_content_url: https://raw.githubusercontent.com/wizard-of-things/nrf24master/master
+exclude: ["datasheets", "Gemfile", "Gemfile.lock", "contributing.md", "Makefile", "readme.md", "scripts", "firmware"]
+include: ["_data"]
